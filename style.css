@@ -102,3 +102,19 @@ section h2, .articles article{
     background-color: goldenrod;
 }
 
+
+#festas{
+    background-color: darkseagreen;
+}
+
+#festas .articles article a{
+    background-color: dodgerblue;
+}
+
+#viagens{
+    background-color: rgb(210, 255, 210);
+}
+
+#viagens .container .articles article a{
+    background-color: blueviolet;
+}
